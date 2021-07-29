@@ -4,6 +4,8 @@ Run script_dashboard.py and visit http://127.0.0.1:8050/ in your browser to view
 Some modules may have to be installed.
 A dashboard was created using DASH in python. The figures created using PLOTLY.
 
+Dashboard depenedent on file urls being maintained (if changed email for actual files to run)
+
 
 
 Python Script
