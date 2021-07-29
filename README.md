@@ -58,8 +58,15 @@ It was unexpected the amount of time spent preparing the data to be merged.
 It also took a while to get the layout of Dash dashboard correct i.e. number of rows and columns. The div components were tricky to place.
 
 
-Further Work: convert coordinates in df to longitude/lattitude instead of ITM coords
+Further Work: 
+convert coordinates in df to longitude/lattitude instead of ITM coords
+
 Use these to build a geo scatter pliot that will display a map, instead of just a plain old scatter plt
+
+Very little testing cause aint nobody got time for that so testing needed 🦖 
+
+
+
 
 
 
